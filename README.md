@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Byeon-MJ
-#### I am DeepLearning Developer
-![I am a student who wannabe DeepLearning Developer]('banner URL')
+#### I am a student who wannabe DeepLearning Developer
+![I am a DeepLearning Developer!!]('banner URL')
 
 I made this project just for fun.
 
