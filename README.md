@@ -13,7 +13,10 @@
 - 🔭 I’m currently working on this page.
 
 #### I am a student who wannabe DeepLearning Developer
-![I am a DeepLearning Developer!!]('banner URL')
+
+
+<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"> : [AI Study & Note Blog](https://redmooncode.tistory.com/)
+
 
 I made this project just for fun.
 
