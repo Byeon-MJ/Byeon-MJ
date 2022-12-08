@@ -1,4 +1,6 @@
 ## 👋 Hi there, I'm *Byeon-MJ*
+
+[![MJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byeon-MJ&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Byeon-MJ&theme=moonlight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
