@@ -15,7 +15,7 @@
 #### I am a student who wannabe DeepLearning Developer
 
 
-<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"> : [AI Study & Note Blog](https://redmooncode.tistory.com/) (2022.12 ~)
+[<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://redmooncode.tistory.com/) : AI Study & Note Blog (2022.12 ~)
 
 
 I made this project just for fun.
