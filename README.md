@@ -1,6 +1,5 @@
 ## 👋 Hi there, I'm *Byeon-MJ*
 
-[![MJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byeon-MJ&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Byeon-MJ&theme=moonlight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -44,6 +43,8 @@ I made this project just for fun.
 
 </div>
 
-
- 
+# 🔔 Contact Me
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://redmooncode.tistory.com/)](https://redmooncode.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byunmj24@gmail.com)](mailto:byunmj24@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:bmj24@naver.com)](mailto:bmj24@naver.com)
 
