@@ -14,7 +14,7 @@
 
 #### I am a student who wannabe DeepLearning Developer
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Byeon-MJ) : GitHub
 [<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://redmooncode.tistory.com/) : AI Study & Note Blog (2022.12 ~)
 
 
@@ -47,5 +47,5 @@ I made this project just for fun.
  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Byeon-MJ)  
+ 
 
