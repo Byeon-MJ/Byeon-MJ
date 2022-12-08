@@ -14,6 +14,8 @@
 
 👀 (Will Be) A Junior `DeepLearning developer`
 
+❤️ to ✍️ about Machine Learning and Deep Learning.
+
 🧠 Interests : Image & Computer Vision AI
 
 
