@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm *Byeon-MJ*
+## 👋 I'm `Byeon-MJ`
 
 <div align="center">
 
