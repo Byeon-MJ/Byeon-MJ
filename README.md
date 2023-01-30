@@ -25,7 +25,7 @@
 - ML & DL :     <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
                 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
                 <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
-                <img src="https://img.shields.io/badge/pytorch-D00000?style=for-the-badge&logo=pytorch&logoColor=white">
+                <img src="https://img.shields.io/badge/pytorch-#EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 - RDBMS :       <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
                 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 - Tools :       <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
