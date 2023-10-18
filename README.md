@@ -41,3 +41,5 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://redmooncode.tistory.com/)](https://redmooncode.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byunmj24@gmail.com)](mailto:byunmj24@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:bmj24@naver.com)](mailto:bmj24@naver.com)
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Byeon-MJ&show_icons=true" alt="Byeon-MJ"/></p>
