@@ -10,7 +10,7 @@
   
 </div>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Byeon-MJ&show_icons=true" alt="Byeon-MJ"/></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Byeon-MJ&show_icons=true&theme=onedark" alt="Byeon-MJ"/></p>
 
 👀 (Will Be) A Junior `DeepLearning developer`
 
