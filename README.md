@@ -29,7 +29,7 @@
                   <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
                   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
                   <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-- Web Framework : <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring-6DB33F&logoColor=white">
+- Web Framework : <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring-6DB33F&logoColor=white">
                   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 - RDBMS :         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
                   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
