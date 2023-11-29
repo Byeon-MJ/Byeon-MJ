@@ -22,8 +22,8 @@
 
 # 📚 Skills
 - Language :      <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-                  <img src="https://img.shields.io/badge/java-437291?style=for-the-badge&logo=OpenJDK&logoColor=white">
-                  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+                  <img src="https://img.shields.io/badge/java-437291?style=for-the-badge&logo=openjdk&logoColor=white">
+                  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 - ML & DL :       <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
                   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
                   <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
